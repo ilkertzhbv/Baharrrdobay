@@ -1,0 +1,82 @@
+// Mock songs data - user will replace with actual audio files
+export const mockSongs = [
+  {
+    title: "Our Song",
+    artist: "Forever & Always",
+    src: "/song1.mp3"
+  },
+  {
+    title: "Beautiful Moments",
+    artist: "Together",
+    src: "/song2.mp3"
+  },
+  {
+    title: "Dancing in the Moonlight",
+    artist: "Us",
+    src: "/song3.mp3"
+  },
+  {
+    title: "Endless Love",
+    artist: "You & Me",
+    src: "/song4.mp3"
+  },
+  {
+    title: "Perfect Day",
+    artist: "Our Journey",
+    src: "/song5.mp3"
+  }
+];
+
+// Compliments list
+export const complimentsList = [
+  "Your smile lights up even the darkest days.",
+  "You have the most beautiful soul I've ever encountered.",
+  "Every moment with you feels like a dream come true.",
+  "Your laughter is my favorite sound in the entire world.",
+  "You make me believe in magic and endless possibilities.",
+  "Your kindness and compassion inspire me every single day.",
+  "You are the most beautiful person, inside and out.",
+  "Your presence makes everything more beautiful and meaningful.",
+  "You have a heart of pure gold.",
+  "Your intelligence and wit never cease to amaze me.",
+  "You make me want to be a better person.",
+  "Your strength and resilience are truly admirable.",
+  "You have the most captivating eyes I've ever seen.",
+  "Your creativity and passion light up the world around you.",
+  "You are my safe haven, my home, my everything.",
+  "Your love has transformed my life in the most wonderful ways.",
+  "You are more precious to me than words can express.",
+  "Your embrace is where I find peace and comfort.",
+  "You are the answer to every prayer I've ever whispered.",
+  "Your voice is like music that soothes my soul.",
+  "You make ordinary moments feel extraordinary.",
+  "Your grace and elegance take my breath away.",
+  "You are my greatest adventure and my sweetest serenity.",
+  "Your love is the greatest gift I've ever received.",
+  "You are the most genuine and authentic person I know.",
+  "Your optimism and positivity are contagious.",
+  "You make me feel cherished and valued every single day.",
+  "Your beauty radiates from within.",
+  "You are my partner, my confidant, my best friend.",
+  "Your touch sends sparks through my entire being.",
+  "You are the reason I believe in true love.",
+  "Your patience and understanding mean the world to me.",
+  "You are my sunshine on cloudy days.",
+  "Your determination and ambition are incredibly attractive.",
+  "You make me feel complete in ways I never thought possible.",
+  "Your thoughtfulness never goes unnoticed.",
+  "You are a masterpiece, a work of art.",
+  "Your support gives me the courage to chase my dreams.",
+  "You are the best thing that's ever happened to me.",
+  "Your spontaneity keeps life exciting and fun.",
+  "You have a way of making everyone around you feel special.",
+  "Your love is my anchor in this chaotic world.",
+  "You are more amazing than you'll ever know.",
+  "Your loyalty and devotion touch my heart deeply.",
+  "You are my forever and always.",
+  "Your wisdom and insight constantly impress me.",
+  "You make every day better just by being in it.",
+  "Your hugs have the power to heal any pain.",
+  "You are the definition of perfection to me.",
+  "Your love story with me is my favorite tale to tell."
+];
